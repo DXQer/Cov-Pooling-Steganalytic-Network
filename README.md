@@ -12,5 +12,5 @@ X. Deng, B. Chen and W. Luo, “Fast and Eﬀective Global Covariance Pooling Ne
 ## More information
 The MPNCOV includes the code about the implement of global covariance pooling which is introduced in fast MPN-COV and its predecessor, i.e. MPN-COV.
 
-P. Li, J. Xie, Q. Wang and Z. Gao, "Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+P. Li, J. Xie, Q. Wang and Z. Gao, "Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.  
 P. Li, J. Xie, Q. Wang and W. Zuo, "Is Second-Order Information Helpful for Large-Scale Visual Recognition?" The IEEE International Conference on Computer Vision (ICCV), 2017.
