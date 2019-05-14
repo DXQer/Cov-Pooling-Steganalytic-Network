@@ -1,6 +1,9 @@
 # Covariance-Pooling-Steganalytic-Network
 A fast and eﬀective global covariance pooling network for image steganalysis in spatial domain.
 
+## Abstract
+Recently, deep learning based methods have achieved superior performance compared to conventional methods based on hand-crafted features in image steganalysis. However, most modern methods are usually quite time consuming. For instance, it takes over 3 days to train a state-of-the-art neural network, i.e. SRNet in our experiments. In this paper, therefore, we propose a fast yet very eﬀective convolutional neural network (CNN) for image steganalysis in spatial domain. To make a good tradeoﬀ between training time and performance, we carefully design the architecture of the proposed network according to our extensive experiments. In addition, we frst introduce the global covariance pooling into steganalysis to exploit the second-order statistic of high-level features for further improving the performance. Experimental results show that the proposed network can outperform the current best one, while its training time is signifcantly reduced.
+
 ## About dataset
 The training, validation and test set are required to contain two catalogs: cover and stego. What's more, the stego images must have the same name as there corresponding cover images.
 
