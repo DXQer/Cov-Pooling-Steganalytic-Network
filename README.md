@@ -10,7 +10,7 @@ The training, validation and test set are required to contain two catalogs: cove
 ## About citation
 Please cite the following paper if the code helps your research.
 
-X. Deng, B. Chen and W. Luo, “Fast and Eﬀective Global Covariance Pooling Network for Image Steganalysis.” in Proc. 7th ACM Workshop Inf. Hiding Multimedia Secur. (IH&MMSec), 2019, accepted.
+X. Deng, B. Chen, W. Luo and D. Luo, “Fast and Eﬀective Global Covariance Pooling Network for Image Steganalysis.” in Proceedings of the ACM Workshop on Information Hiding and Multimedia Security, 2019: 230-234.
 
 ## Reference
 The MPNCOV includes the code about the implementation of global covariance pooling which is introduced in fast MPN-COV and its predecessor, i.e. MPN-COV.
